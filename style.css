@@ -84,7 +84,7 @@ body{
     background-image: url(./img/bg_1.jpg.webp);
     background-size:cover;
     background-position: right;
-    background-attachment:fixed;
+    background-attachment:sticky;
     text-align: left;
     padding: 200px 0 200px 0;
     padding-left: 10%;
@@ -197,8 +197,6 @@ body{
     object-fit: fill;
     background-image: url(./img/about-1.jpg.webp);
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
 }
 /* .about img{
     position: relative;
